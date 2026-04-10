@@ -7,3 +7,6 @@ __pycache__/
 .claude/
 CLAUDE.md
 context/
+
+# logs
+logs/
