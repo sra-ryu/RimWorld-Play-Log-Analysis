@@ -2,3 +2,8 @@
 *.rws
 .DS_Store
 __pycache__/
+
+# Claude Code
+.claude/
+CLAUDE.md
+context/
