@@ -5,6 +5,7 @@ A data analysis portfolio project focused on parsing and analyzing **RimWorld** 
 By leveraging complex XML structures found in game save files, this study aims to transform hierarchical raw data into actionable insights regarding player behavior and colony progression.
 
 1. **Data Parsing Practice**: Mastering XML parsing techniques using Python to navigate deeply nested game data.
+2. **XML to relational table**: Extracting selected data from XML into relational tables.
 
 ## Tech Stack
 - **Language**: Python
