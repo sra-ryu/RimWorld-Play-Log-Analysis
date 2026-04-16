@@ -6,6 +6,7 @@ By leveraging complex XML structures found in game save files, this study aims t
 
 1. **Data Parsing Practice**: Mastering XML parsing techniques using Python to navigate deeply nested game data.
 2. **XML to relational table**: Extracting selected data from XML into relational tables.
+3. **Colony Report**: Create a report using data to optimize colony management.
 
 ## Tech Stack
 - **Language**: Python
